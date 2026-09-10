@@ -6,7 +6,7 @@
 * [x] Add accessibility, metadata, illustrative-data labels, and claims controls.
 * [x] Add documentation and the GitHub Pages deployment workflow.
 * [x] Run lint, production build, content audits, and interaction checks.
-* [ ] Commit, push when possible, and prepare the delivery report.
+* [x] Commit, push when possible, and prepare the delivery report.
 
 ## Review
 
